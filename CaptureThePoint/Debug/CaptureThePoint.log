@@ -1,0 +1,4 @@
+﻿  CaptureThePoint.cpp
+d:\powerapk\games\visualstudiogames\capturethepoint\capturethepoint\capturethepoint.cpp(185): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CaptureThePoint.vcxproj -> D:\PowerApk\Games\VisualStudioGames\CaptureThePoint\Debug\CaptureThePoint.exe
+  CaptureThePoint.vcxproj -> D:\PowerApk\Games\VisualStudioGames\CaptureThePoint\Debug\CaptureThePoint.pdb (Full PDB)
